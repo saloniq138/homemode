@@ -1,0 +1,2 @@
+# homemode
+simple /sethome mod
